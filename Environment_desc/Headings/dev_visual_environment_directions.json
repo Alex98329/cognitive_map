@@ -1,0 +1,9038 @@
+[
+    {
+        "Instance_id": 6918,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 990,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1017,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5947,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6503,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1681,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5327,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6960,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2663,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2879,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6696,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 993,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1994,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4552,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2840,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 96,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1966,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6825,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5180,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5807,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3513,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4806,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4693,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2523,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5087,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5856,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6700,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Left",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2946,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Left",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1921,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1939,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3997,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5523,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5197,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1570,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2045,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3062,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1047,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5783,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3279,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4883,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2322,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6211,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6633,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4162,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 344,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 228,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6679,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 939,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3608,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5644,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5265,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2798,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1780,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6626,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2172,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5573,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3319,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4320,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 7358,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6931,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2680,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2484,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5940,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2832,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1433,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5638,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4868,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2403,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 571,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 164,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5894,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4238,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4548,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4260,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5731,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5147,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7291,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4377,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Right",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1708,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1259,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2291,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5479,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6338,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5218,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7110,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2624,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6329,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Right",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5467,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5568,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7369,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1709,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3184,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3871,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4300,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6032,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5717,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 286,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3189,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1160,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6194,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Left",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6244,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Right",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3158,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2138,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1232,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Left",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 7254,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1903,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2217,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3245,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6912,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5487,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3173,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2509,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Right",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 632,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7269,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5297,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1591,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 561,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5395,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2349,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 516,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1700,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2810,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2264,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6087,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2078,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6153,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 275,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4206,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 597,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5653,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3660,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3177,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 689,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5912,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4402,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4859,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7078,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 7234,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6889,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7041,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6311,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6335,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1539,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7061,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 578,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5439,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4642,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 864,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4816,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2806,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3083,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3590,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1959,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1300,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5428,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7349,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1963,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4365,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5477,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7595,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3638,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 732,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2795,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7365,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3496,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4479,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 617,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1702,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5846,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4946,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3557,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4201,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5090,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5934,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6383,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6805,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2361,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4002,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7371,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4989,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Right",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2343,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Left",
+            "Right",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6111,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 851,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1928,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7619,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3420,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5448,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6094,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5923,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 435,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7361,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5868,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5853,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 309,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6598,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3835,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 607,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2257,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4045,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3666,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4529,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6682,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7494,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3336,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Left",
+            "Left",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3578,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 877,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2057,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2730,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 258,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7470,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Right",
+            "Left",
+            "Right",
+            "Left",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5796,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7213,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4553,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Left",
+            "Right",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4867,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2953,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2209,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3481,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 473,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3587,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2041,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6380,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1472,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4499,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4523,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4010,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5558,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5886,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5245,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2242,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5619,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1823,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7360,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5264,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1778,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1250,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4408,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5818,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 239,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3263,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5088,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2584,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5229,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5778,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2087,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3655,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5515,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1034,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6107,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4962,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 533,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2092,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5386,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1473,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 174,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1751,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6150,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4184,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6077,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2297,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4510,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 92,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2728,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1846,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 7543,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5561,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5495,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 105,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4894,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1012,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3943,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 7131,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 70,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1197,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 970,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4577,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4166,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6710,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1568,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5616,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6722,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Right",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6236,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1541,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7485,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4727,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6061,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6849,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1129,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3981,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4979,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1933,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4367,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 959,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2992,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1743,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1603,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6807,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6874,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7051,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 911,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1122,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2163,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2623,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3124,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2792,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1920,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2766,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4976,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5011,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4688,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6175,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2901,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6160,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2032,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 365,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2587,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5732,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Right",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3634,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6021,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1113,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7229,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6915,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2839,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2537,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1243,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3870,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4481,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6054,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7266,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Left",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5239,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2386,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 492,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2198,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5340,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5650,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 287,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7633,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6911,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4294,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2371,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5024,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1609,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3799,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5416,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3127,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2790,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 7669,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 207,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4838,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6639,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4239,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6136,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6165,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6235,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3584,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3404,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2665,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4970,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3034,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3316,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7098,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7372,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4563,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6278,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6008,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6064,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2698,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6538,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7373,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7557,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 7629,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5902,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1141,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 852,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6168,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5728,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1954,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5406,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5211,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4532,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6641,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2182,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6643,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6193,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 646,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2130,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3872,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6228,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6791,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4244,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 649,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6164,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4431,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2599,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6058,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3161,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7366,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2711,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4746,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3285,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1527,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4126,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2472,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 7386,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Left",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1413,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1586,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2688,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7044,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4151,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3371,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4673,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3563,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5152,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1056,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2394,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2848,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5964,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2166,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4546,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3737,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 277,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1028,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1042,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2244,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5794,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7014,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4240,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1875,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7458,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 449,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5838,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 615,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2915,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6550,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2364,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5212,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5654,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2852,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2559,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7037,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1180,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4230,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 840,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6854,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2051,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2574,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6043,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4284,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7593,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1029,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1984,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6343,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7548,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2538,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 507,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7394,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7226,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3970,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 272,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4604,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3479,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Right",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 307,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3885,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6932,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7335,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1500,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1031,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4357,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Left",
+            "Left",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2947,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5268,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6306,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1249,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 429,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6702,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 558,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6649,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 700,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5337,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6403,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4656,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3225,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7649,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Left",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4418,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3179,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 303,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4461,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6240,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6325,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3281,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4486,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4457,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3364,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6157,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7007,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3554,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1378,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6660,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7317,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6875,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6360,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5315,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6582,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4389,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4717,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Left",
+            "Left",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7127,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1796,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4701,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2124,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7117,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7380,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5452,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6921,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 127,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1036,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7496,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1087,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2005,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7375,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7591,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1567,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5396,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4315,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5909,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1634,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3458,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1547,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1427,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1953,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2270,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3386,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5079,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5816,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2576,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6205,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6647,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4973,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2616,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3653,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2063,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6251,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1648,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1986,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6197,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7423,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1548,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5849,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 22,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7236,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 7283,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1489,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4444,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6097,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 430,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 995,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5181,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5404,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1662,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5178,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7252,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5018,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7124,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 938,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6148,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 74,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 475,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2025,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5565,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2668,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5291,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3210,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1643,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7456,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5844,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2988,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1363,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5598,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1589,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4034,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6243,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6991,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 642,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5785,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2724,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7451,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4041,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1614,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 306,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3172,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3321,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6268,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3268,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5298,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2167,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3895,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 612,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5599,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6724,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2385,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6365,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3219,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4731,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3858,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6313,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1110,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1553,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3078,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4053,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Right",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 899,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 350,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Left",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2978,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1980,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4831,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2813,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4205,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1729,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1506,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4014,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6426,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7163,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6373,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5360,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3887,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7188,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5762,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5752,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1998,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 793,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6395,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5879,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7134,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5532,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2561,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5257,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1205,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5454,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3633,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5376,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7298,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6479,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1149,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2084,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1084,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1911,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2857,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Left",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1641,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2040,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7121,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1075,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4182,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3135,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3349,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6817,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6712,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6127,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2977,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6370,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1454,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6348,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 740,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 471,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3121,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7506,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6926,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2131,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 1227,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4188,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4654,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6904,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5381,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 952,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 2632,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6048,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3032,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6667,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5721,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3144,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5084,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5353,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4050,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6339,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4980,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 7203,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3065,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6300,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Left",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7559,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6482,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3252,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7194,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1537,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 7359,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4626,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 7233,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6432,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Left",
+            "Right",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4623,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4581,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3860,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 145,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6227,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3968,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4133,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6258,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3056,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 273,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1852,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5708,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4404,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3021,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7617,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4566,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4981,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4793,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7334,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4180,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1948,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2551,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6909,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 199,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3722,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3630,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5864,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3294,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4245,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5646,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4027,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1723,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6475,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 871,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1235,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2657,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1604,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Left",
+            "Right",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 7033,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2905,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6776,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6436,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3612,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6968,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3220,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1739,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5705,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 90,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Left",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 7411,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2135,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2146,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6425,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 394,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5128,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4784,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1931,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 4270,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2601,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6820,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3682,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 6182,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 693,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3687,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Right",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3525,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5716,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6507,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3016,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2232,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 524,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 7211,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6171,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5198,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1115,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 6375,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 825,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2152,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4680,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6487,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2490,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 3111,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 7136,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 5866,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4589,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5463,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 1388,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6063,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Right",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5574,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3838,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 5329,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 5124,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 947,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 664,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4471,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3644,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Left",
+            "Right",
+            "Left",
+            "Forward",
+            "Right",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 310,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 6113,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2145,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 3087,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4648,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 3837,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 7433,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Right",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2468,
+        "Directions": [
+            "Forward",
+            "Left",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 2428,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left"
+        ]
+    },
+    {
+        "Instance_id": 1254,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 4020,
+        "Directions": [
+            "Forward",
+            "Right",
+            "Forward",
+            "Forward",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 935,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Left",
+            "Forward"
+        ]
+    },
+    {
+        "Instance_id": 4880,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right"
+        ]
+    },
+    {
+        "Instance_id": 2219,
+        "Directions": [
+            "Forward",
+            "Forward",
+            "Forward",
+            "Forward",
+            "Right",
+            "Left",
+            "Left",
+            "Right"
+        ]
+    }
+]
