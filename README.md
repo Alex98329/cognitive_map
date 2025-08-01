@@ -100,7 +100,7 @@ https://maps.googleapis.com/maps/api/streetview
 - Requires **OpenAI API key** for GPT-4o / Vision.
 - Ensure consistent file paths and `outputs/` folder structure.
 - Tested with Python 3.10 and NVIDIA GPU.
-
+- For reproducibility of the AAAI-26 submission, please refer to Release v1.0.
 ---
 
 ## 📜 License
