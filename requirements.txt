@@ -9,3 +9,6 @@ imageio>=2.9.0
 Pillow>=8.2.0
 scikit-learn>=1.0.2
 requests>=2.26.0
+papermill>=2.4.0
+nbformat>=5.1.3
+nbconvert>=6.5.0
